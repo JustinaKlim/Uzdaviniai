@@ -1,5 +1,5 @@
 
-<!-- Devintas uždavinys -->
+<!-- Devintas uždavinyss -->
 
 <?php
 
